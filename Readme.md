@@ -1,7 +1,7 @@
 
 api key from openai
 
-'''bash
+'''bash :
 streamlit 
 langchain 
 openai
